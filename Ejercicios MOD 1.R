@@ -1,5 +1,10 @@
 #Ejercicios Modulo 1 
 
+# Integrantes 
+
+## Jorge Higuera 
+## Andres Rodriguez
+
 # Punto 1. Vectores y listas 
 
 ## Literal a.
