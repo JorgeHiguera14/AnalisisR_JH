@@ -1,4 +1,11 @@
-library(naniar)
+#integrantes 
+## Jorge Higuera 
+## Hugo Fonseca  
+## Danny Buitrago  
+## Andres Rodriguez 
+
+
+(naniar)
 library(tidyverse)
 
 #1. Cargar y explorar base de datos.
