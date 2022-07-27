@@ -1,3 +1,10 @@
+# Integrantes
+## Jorge Higuera 
+## Andres Rodriguez 
+## Hugo Fonseca 
+## Danny Buitrago 
+
+
 library(tidyverse)
 base <- read.csv("songs_normalize.csv")
 
