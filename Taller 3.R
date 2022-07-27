@@ -1,6 +1,8 @@
 # Integrantes
 ## Jorge Higuera 
 ## Andres Rodriguez 
+## Hugo Fonseca 
+## Danny Buitrago 
 
 
 library(tidyverse)
