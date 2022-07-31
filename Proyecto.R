@@ -1,3 +1,10 @@
+# Integrantes 
+## Jorge Higuera 
+## Hugo Fonseca 
+## Danny Buitrago 
+## Andres Rodriguez
+
+
 ##Parte 1
 ##1.1
 cal <- 18
